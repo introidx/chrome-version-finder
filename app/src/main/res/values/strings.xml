@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chrome Version Finder</string>
+    <string name="version">Version</string>
+    <string name="chrome_version">Chrome Version</string>
+</resources>
